@@ -9,6 +9,9 @@
 build/
 DerivedData/
 
+# CocoaPods
+Pods/
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
@@ -76,7 +79,6 @@ fastlane/test_output
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 
-# CocoaPods
-Pods/
+
 
 # End of https://www.gitignore.io/api/swift,xcode
