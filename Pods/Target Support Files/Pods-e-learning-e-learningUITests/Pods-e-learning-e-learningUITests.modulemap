@@ -1,6 +1,0 @@
-framework module Pods_e_learning_e_learningUITests {
-  umbrella header "Pods-e-learning-e-learningUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
